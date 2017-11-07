@@ -47,4 +47,4 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
     - No State Jurisdiction
     - Single Appellate System compared to Standard regional circuit
 - Validity: 20 Years from the date of filing
-__Key: Federal Immunity__ 
+- __Key: Federal Immunity__ 
