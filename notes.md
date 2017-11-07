@@ -27,7 +27,24 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
 - Val: Validity
 - Use: Utility
 - RegBody: Regulatory Body
+- Estd: Estimated Time
 
 # Patents [Invention]
 - Types of work:
-    Any new and useful process
+    Any new and useful process, machine manufactured or composition of matter; Inventions: tangible/intangible
+- Standard:
+    - Novel(Unique)
+    - Non Obvious
+    - Utility(useful)
+    - Disclosure
+- Acquisition:
+    By applying to the USPTO(US patent office) at Washington DC to be assigned to a patent examiner.
+- Estimated Time:
+    Any where from 18 months to 5/6/7 years with constant clarification between examiner and applicant.
+- Regulatory Body:
+    - Federal Jurisdiction
+    - 35 USC §§
+    - No State Jurisdiction
+    - Single Appellate System compared to Standard regional circuit
+- Validity: 20 Years from the date of filing
+__Key: Federal Immunity__ 
