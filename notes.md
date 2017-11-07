@@ -20,5 +20,14 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
 - rules aren't primarily set in stone; impying that they have and can be changed and refined; Supreme court sets the rules.
 - Knowing and understanding IP law means that you can help set the rules
 
+### Legend
+- TOW: Type of work
+- Acqui: Acquisition
+- Std: Standard
+- Val: Validity
+- Use: Utility
+- RegBody: Regulatory Body
+
 # Patents [Invention]
-- Types of work
+- Types of work:
+    Any new and useful process
