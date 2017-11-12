@@ -47,9 +47,9 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
     - No State Jurisdiction
     - Single Appellate System compared to Standard regional circuit
 - Validity: 20 Years from the date of filing
-- __Key__:
+- __Excerpt__:
     Federal Immunity
-
+--------------------------------------------------------------------------------
 # Trade Marks [Distinctions]
 - Types of work:
     Distinctive marks on product or product appearance.
@@ -69,5 +69,28 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
         - Case Study:
             Aspirin went from a specific medicine to a whole genre of medicines.
         Generalization implies that the general public is unable to recognize your underlying product due to wide usage.
-- __Key__:
+- __Excerpt__:
     Liability of losing trademark if consuming public ceases to identify the name with its source.
+--------------------------------------------------------------------------------
+# Copyrights [Creativity based content]
+- Types of Work:
+    Any literary or artistic work (Creative)
+- Standard:
+    - Originality
+    - Authorship:
+        Creative process of creation by Author.
+    - Must be Fixated in a tangible medium.
+- Acquisition:
+    - Automatic:
+        Upon moment / instance of creation.
+- Regulatory Body:
+    - 17 USC §§
+    - Exclusively Federal
+- Validity:
+    - Life of Author + 70 years post death
+    In some cases:
+        - Life of Author + 95 years post death
+        - Life of Author + 120 years post death
+- __Excerpt__:
+    To be eligible and covered under federal protection, the author must register with USPTO, Washington DC.
+    This is done by sending a copy of item to be copyrighted for copyright law to be enforced.
