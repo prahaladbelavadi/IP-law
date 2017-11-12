@@ -47,7 +47,8 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
     - No State Jurisdiction
     - Single Appellate System compared to Standard regional circuit
 - Validity: 20 Years from the date of filing
-- __Key: Federal Immunity__
+- __Key__:
+    Federal Immunity
 
 # Trade Marks [Distinctions]
 - Types of work:
@@ -56,3 +57,17 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
     Distinctiveness:
         Consuming public should be able to identify the underlying source of product with trademark.
 - Acquisition:
+    Must be federally registered and be used in interstate commerce to be eligible for federal protection.
+- Regulatory Body:
+    - Federal Jurisdiction
+    - 15 USC §§
+    - Independent State enforcements
+- Validity:
+    Trademarks can be perpetual or forever.
+    - Threat:
+        Trademarks can become generic.
+        - Case Study:
+            Aspirin went from a specific medicine to a whole genre of medicines.
+        Generalization implies that the general public is unable to recognize your underlying product due to wide usage.
+- __Key__:
+    Liability of losing trademark if consuming public ceases to identify the name with its source.
