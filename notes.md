@@ -47,4 +47,12 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
     - No State Jurisdiction
     - Single Appellate System compared to Standard regional circuit
 - Validity: 20 Years from the date of filing
-- __Key: Federal Immunity__ 
+- __Key: Federal Immunity__
+
+# Trade Marks [Distinctions]
+- Types of work:
+    Distinctive marks on product or product appearance.
+- Standard:
+    Distinctiveness:
+        Consuming public should be able to identify the underlying source of product with trademark.
+- Acquisition:
