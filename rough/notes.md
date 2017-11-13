@@ -15,13 +15,13 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
     - greater amount of litigation
     - Greater scope of law field
     - Ability to know the laws; More patents to protect
-    - Involvemtent of supreme court in IP law
+    - Involvement of supreme court in IP law
 - Limited by Size; Protection
 - rules aren't primarily set in stone; impying that they have and can be changed and refined; Supreme court sets the rules.
 - Knowing and understanding IP law means that you can help set the rules
 
 ### Legend
-- TOW: Type of work
+- Type of Work: Type of work
 - Acqui: Acquisition
 - Std: Standard
 - Val: Validity
@@ -94,3 +94,50 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
 - __Excerpt__:
     To be eligible and covered under federal protection, the author must register with USPTO, Washington DC.
     This is done by sending a copy of item to be copyrighted for copyright law to be enforced.
+--------------------------------------------------------------------------------
+# Trade secrets:
+- Type of Work: Anything
+- Standard: Secrecy or effort to protect
+- Acquisition: Automatic
+    - Upon moment of creation
+    - No registration or disclosure required
+- Regulatory Body:
+    - State Jurisdiction
+    - 44/50 States have relatively same or similar laws
+- Validity:
+    - Potentially perpetual unless disclosed.
+- __Excerpt__:
+    - Trade secrets are valid unless and until it no longer remains a secret.
+    - Not eligible for federal protection.
+--------------------------------------------------------------------------------
+# Rights to Publicity:
+- Type of Work:
+    - Public reputation or social image
+- Standard:
+    - Public must recognize you as a public figure
+- Acquisition:
+    - Automatic
+- Regulatory Body:
+    - State Jurisdiction
+- Validity:
+    - Potentially perpetual
+- __Excerpt__:
+    - Public must recognize you as a public figure
+    - Validity may continue post a person's death until the public recognizes him/her.
+--------------------------------------------------------------------------------
+# Design Patents [Patents awarded to designs only]:
+- Tow:
+    - Product design and design specific only
+- Standard:
+    - Need to be novel (Unique)
+    - Disclosure
+- Acquisition:
+    - By applying to the USPTO(US patent office) at Washington DC to be assigned to a patent examiner.
+- Regulatory Body:
+    - Federal Law Jurisdiction
+    - 35 USC
+- Validity:
+    - 14 years from the date of grant.
+- __Excerpt__:
+    - Very much similar to an invention patent except for design only
+    - No Utility or Non Obvious clause that's necessary in invention patents 
