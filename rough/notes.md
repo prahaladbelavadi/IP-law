@@ -205,7 +205,7 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
     If no incentive was provided to build bran awareness, anybody could impersonate one and other creating a market of low quality goods and services.
     Misrepresentation would cause a flood of cheap and low quality goods and services which would be detrimental to the society as a whole.
 
-###Incentive structure
+### Incentive structure
     [Protecting Trademarks -> Companies protect their goodwill -> Invest in Goodwill -> invest in building higher quality goods -> lower search costs]
 
 # Macro economic Principle
