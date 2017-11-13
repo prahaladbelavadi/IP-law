@@ -109,7 +109,9 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
 - __Excerpt__:
     - Trade secrets are valid unless and until it no longer remains a secret.
     - Not eligible for federal protection.
+
 --------------------------------------------------------------------------------
+
 # Rights to Publicity:
 - Type of Work:
     - Public reputation or social image
@@ -124,7 +126,9 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
 - __Excerpt__:
     - Public must recognize you as a public figure
     - Validity may continue post a person's death until the public recognizes him/her.
+
 --------------------------------------------------------------------------------
+
 # Design Patents [Patents awarded to designs only]:
 - Tow:
     - Product design and design specific only
@@ -140,4 +144,57 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
     - 14 years from the date of grant.
 - __Excerpt__:
     - Very much similar to an invention patent except for design only
-    - No Utility or Non Obvious clause that's necessary in invention patents 
+    - No Utility or Non Obvious clause that's necessary in invention patents
+
+    --------------------------------------------------------------------------------
+## Theory of Intellectual Property rights and Central Debate
+- Why have Intellectual Property Rights ?
+- Basic economics of IP
+- Central Debate in IP
+
+> Why have Intellectual Property rights ?
+> - Natural Rights theory [France]
+> - Person hood theory
+> - Utilitarian Theory [USA]
+
+> USC Article 1Section clause 8
+> "To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries;"
+> [Reference](http://avalon.law.yale.edu/18th_century/art1.asp#1sec8)
+
+# Utilitarian Basis of Intellectual Property:
+- Q> What does it mean ?  
+    ```
+    A> Intellectual Property is a grant to exclude others from the scope of the right allotted.
+    ```
+- Intellectual Property is functionalist:
+    - A means to an End.
+    - Pro invention and Pro discovery
+- Influence on Free Market:
+    Intellectual Property rights interfere with the free market that needs to be justified functionally.
+
+# Public Goods [Negate Intellectual Property Characteristics]:
+    - Non rival:
+        - Any body can view / look or use the idea
+            - Non limited Tangibility
+    - Non exclusion principle:
+        - Idea or utility cannot be excluded from being used or implemented.
+
+> Intellectual Property law is a marginal change in the incentive structure
+> The goal of the government intervention is biased against inventions and discoveries becoming public goods while fostering competition and regulate(exclusion of specify goods) accordingly.
+
+# Trademarks:
+- Protecting trademarks protects investments and goodwill.
+    - Goodwill is indicated by positive feelings to underlying source of logos or images.
+    - Investments go into creating brand awareness.
+    - Investments are made into establishing Goodwill:
+        - Reduces Search cost for consumer
+        - increases efficiency in marketplace
+        - Investment in product goodwill enforces investments to improve product quality
+
+> Alternative Scenario:
+    If no incentive was provided to build bran awareness, anybody could impersonate one and other creating a market of low quality goods and services.
+    Misrepresentation would cause a flood of cheap and low quality goods and services which would be detrimental to the society as a whole.
+###Incentive structure
+    [Protecting Trademarks -> Companies protect their goodwill -> Invest in Goodwill -> invest in building higher quality goods -> lower search costs]
+
+# Macro economic Principle
