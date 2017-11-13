@@ -111,8 +111,11 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
     - Not eligible for federal protection.
 --------------------------------------------------------------------------------
 # Rights to Publicity:
-- Type of Work: public reputation or social image
+- Type of Work: Public reputation or social image
 - Standard: Public must recognize you as a public figure
 - Acquisition: Automatic
 - Regulatory Body: State Jurisdiction
 - Validity: Potentially perpetual
+- __Excerpt__:
+    - Public must recognize you as a public figure
+    - Validity may continue post a person's death until the public recognizes him/her.
