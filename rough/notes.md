@@ -49,7 +49,9 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
 - Validity: 20 Years from the date of filing
 - __Excerpt__:
     Federal Immunity
+
 --------------------------------------------------------------------------------
+
 # Trade Marks [Distinctions]
 - Types of work:
     Distinctive marks on product or product appearance.
@@ -71,7 +73,9 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
         Generalization implies that the general public is unable to recognize your underlying product due to wide usage.
 - __Excerpt__:
     Liability of losing trademark if consuming public ceases to identify the name with its source.
+
 --------------------------------------------------------------------------------
+
 # Copyrights [Creativity based content]
 - Types of Work:
     Any literary or artistic work (Creative)
@@ -94,7 +98,9 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
 - __Excerpt__:
     To be eligible and covered under federal protection, the author must register with USPTO, Washington DC.
     This is done by sending a copy of item to be copyrighted for copyright law to be enforced.
+
 --------------------------------------------------------------------------------
+
 # Trade secrets:
 - Type of Work: Anything
 - Standard: Secrecy or effort to protect
@@ -130,7 +136,7 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
 --------------------------------------------------------------------------------
 
 # Design Patents [Patents awarded to designs only]:
-- Tow:
+- Type of Work:
     - Product design and design specific only
 - Standard:
     - Need to be novel (Unique)
@@ -146,7 +152,8 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
     - Very much similar to an invention patent except for design only
     - No Utility or Non Obvious clause that's necessary in invention patents
 
-    --------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
 ## Theory of Intellectual Property rights and Central Debate
 - Why have Intellectual Property Rights ?
 - Basic economics of IP
@@ -163,6 +170,7 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
 
 # Utilitarian Basis of Intellectual Property:
 - Q> What does it mean ?  
+
     ```
     A> Intellectual Property is a grant to exclude others from the scope of the right allotted.
     ```
@@ -180,6 +188,7 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
         - Idea or utility cannot be excluded from being used or implemented.
 
 > Intellectual Property law is a marginal change in the incentive structure
+
 > The goal of the government intervention is biased against inventions and discoveries becoming public goods while fostering competition and regulate(exclusion of specify goods) accordingly.
 
 # Trademarks:
@@ -192,8 +201,10 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
         - Investment in product goodwill enforces investments to improve product quality
 
 > Alternative Scenario:
+
     If no incentive was provided to build bran awareness, anybody could impersonate one and other creating a market of low quality goods and services.
     Misrepresentation would cause a flood of cheap and low quality goods and services which would be detrimental to the society as a whole.
+
 ###Incentive structure
     [Protecting Trademarks -> Companies protect their goodwill -> Invest in Goodwill -> invest in building higher quality goods -> lower search costs]
 
