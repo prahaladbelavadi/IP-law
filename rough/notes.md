@@ -111,11 +111,33 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
     - Not eligible for federal protection.
 --------------------------------------------------------------------------------
 # Rights to Publicity:
-- Type of Work: Public reputation or social image
-- Standard: Public must recognize you as a public figure
-- Acquisition: Automatic
-- Regulatory Body: State Jurisdiction
-- Validity: Potentially perpetual
+- Type of Work:
+    - Public reputation or social image
+- Standard:
+    - Public must recognize you as a public figure
+- Acquisition:
+    - Automatic
+- Regulatory Body:
+    - State Jurisdiction
+- Validity:
+    - Potentially perpetual
 - __Excerpt__:
     - Public must recognize you as a public figure
     - Validity may continue post a person's death until the public recognizes him/her.
+--------------------------------------------------------------------------------
+# Design Patents [Patents awarded to designs only]:
+- Tow:
+    - Product design and design specific only
+- Standard:
+    - Need to be novel (Unique)
+    - Disclosure
+- Acquisition:
+    - By applying to the USPTO(US patent office) at Washington DC to be assigned to a patent examiner.
+- Regulatory Body:
+    - Federal Law Jurisdiction
+    - 35 USC
+- Validity:
+    - 14 years from the date of grant.
+- __Excerpt__:
+    - Very much similar to an invention patent except for design only
+    - No Utility or Non Obvious clause that's necessary in invention patents 
