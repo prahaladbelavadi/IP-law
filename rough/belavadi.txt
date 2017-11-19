@@ -1,0 +1,212 @@
+IP law EDx course [Pdk Wagner]
+Patents Copyrights & trademarks (IP law). Trade secrets; Rights of publicity.
+IP law theory; (Discuss problem)
+
+Patent law: What; Where, Rules, Coverage, Scope, Infringement; Tradeoffs.
+
+Copyright law: Subject matter; limits; infringement, fair use & DRM; Policy.
+
+Trademarks: What; Where; How; Scope; Infringement & Dilution(?), Fair use & usage on internet.
+
+Future of IP; Legislative proposals; Alternate scope for improvements.
+
+Why IP Laws:
+- Rapid expansion in the past 20 years
+- Greater amount of litigation
+- Greater scope in law field
+- Ability to know the laws; more patents to protect
+- Involvement of Supreme Court in IP law
+Limited by size; Protection
+Rules aren’t set; It changes and has been changing; Supreme Court is now setting rules.
+Knowing IP means you can help set the rules. (Really?)
+
+
+ToW → type of work
+Std → standard
+Utility → use
+Aqu → Acquisition
+Val → Validity
+Regbody → Regulatory body
+Patents [Inventor]
+ToW: Any new and useful process, machine, manufactured or comparison of matter. [Inventions; tangible/ intangible]
+Std: [Novel (unique)][Nonobvious]
+Utility: [It has to be useful] [disclosed]
+Acquisition
+Application: [Application to USPTO at Washington] assigned to patent examiner
+Time: 18 months to 5/ 6/ 7 years.
+Regulation body: Federal; 35 USC
+No state jurisdiction, appealing goes through single appellate compared to regional circuit.
+Validity: 30 years from the date of filing.
+
+Key: Federal immunity
+Trade Marks: [Distinct Distinguishability]
+ToW: Distinctive marks on product appearance
+Std: Distinctiveness, the consuming (?) public should be able to identify the underlying source of product with trademark.
+Acquisition: Must be federally registered & used in interstate commerce to get federal protection
+Regulation body: Federal law. 15 USC & separate state laws
+Validity: Trade marks can be perpetual or forever. Trade marks can become generic.
+Key: Liability of losing(?) trademark if consuming public ceases to identify the name with its source; eg Aspirin(?).
+
+Copyrights [creativity based content]
+Type of work: Any literary or artistic work [creative]
+Standard: Originality, Authorship ( creative process of creation by author); fixation in a tangible medium
+Acquisition: Automatic upon movement of creation; federal protection requires registration by sending a copy to registrar of copyright in Washington DC for copy right to be enforced.
+Law (Reg): 17 usc exclusively federal
+Validity: Lifetime of author + 70 yrs or in some cases lifetime of author + 95/ 120 yrs.
+Trade Secrets:
+Tow: Anything; (should be secret info)
+Std: Secrecy; or effort to protect
+Acquisition: Automatic on creation; No registration required
+Law: State law; 44/50 states
+Validity: Potentially perpetual
+Rights of Publicity:
+Tow: Public reputation & social image.
+Std: Public needs to recognize you as a public figure.
+Acquisition: Automatic
+Law: State law
+Validity: Potentially perpetual
+Design patents [Patent Design only]
+ToW: Product design; Need not be
+Utility: Need no use cas(?); Design specific
+Std: Need to be novelty(? Novel??)(unique) and have to disclose it;
+Acquisitions: Similar to traditional patent system
+Law: Federal Law; 35 USC
+Validity: 14 years from the date of grant.
+Theory of IP rights & Central debate
+Why have IP rights?
+Basic Economics of IP
+Central debate in IP
+Why have IP rights?
+Natural Rights Theory [France]
+Personhood(?) theory
+Utilization theory [USA]
+US Constitution: Article 1, Section 8 clauses
+
+Utilitarian basis of IP
+What does it mean?
+A. IP is a grant to exclude others from the scope of the right.
+- IP is functionalist: A means to an end pro invention & Pro discovery
+- IP rights are an interference with the free market that needs to be justified functionally.
+Public goods [IP characteristics:]
+Non Rival: Any body can view/ look or use the idea. (Intangible) Non rival(?)
+Non Excluding: Ideas or utility cannot be excluded from being used or implied.
+The goal of government intervention is to prevent public good from happening(?) to foster rival and exclusion specific goods.
+IP law is a marginal change in the incentive structure.
+
+Trademarks
+Protecting trademarks protects investments & goodwill
+Positive feelings towards the underlying source of logo or images indicates goodwill
+Investment goes into creating Brand Awareness
+Investment in goodwill:
+Reduces search cost for consumer
+Increases efficiency in marketplace
+Investment in product goodwill enforces investment in product quality.
+Alternative (? Wouldn’t Alternate suffice?) Scenario: If no incentive was provided to build brand awareness, anybody could impersonate one & other creating a market of low quality goods & services.
+Protecting trademarks → companies protect their goodwill → investment in goodwill → building(?) high quality goods.
+Incentive Structure
+More goodwill → Lower search cost → Higher product quality
+Economic Spectrum
+Protecting trademarks → Protecting “good will” → Investments in goodwill → Low search cost & High productivity
+2.3. Macro-Economic Principle:
+IP rights allow Supra Marginal economic returns
+Competitive Market: Prices Approach Marginal(economic returns?) less than Competitive Market: Prices Rise above Marginal economic returns.
+IP rights are not monopolies.
+
+Price vs Quantity
+Difference between competitive equilibrium to (Monopolistic equilibrium to maximizing(?) profits)
+IP rights are between monopoly & competitive equilibrium.
+Dead Weight loss:
+The gap between monopolistic equilibrium or IP rights equilibrium to competitive equilibrium.
+IP rights cost
+Monopolization cost: price difference vs. utility
+Rent seeking:
+Racing
+Patent rolls (?)
+Restriction of future innovation
+Significant administrative costs
+Significant legislative costs
+Dead weight societal loss
+Q.: Are benefits greater than the incurred costs?
+
+3.1. Components of Patent
+Architecture of patent system
+Administrative Agency (PTO)
+The patent document
+Private Enforcement system (Litigation)
+Administrative Agency (Patent Office)
+Evaluates applications for compliance with standards of patentability
+The patent document
+Establishes boundaries of protection & claims
+* requires disclosure
+Litigation:
+Market component determines reward & compensation; involves full review of PTO grant of rights
+* could result in the patent owner losing his rights & patent. High risk.
+
+Patent document:
+* Front page: To present to the user, reviewer as much of the critical information as possible in a concise & precise manner.
+* All US patents are downloadable from USPTO
+* Key components: (on front page) ish(?).
+Title
+Serial Number
+Date (prior art & priority) validating(? Validation??)
+Issue date ( to become prior art for others)
+Inventor name & Assignee (ownership)
+Contact information of owner
+Technology fields for classification
+Citations for references
+Prior Art( ? Articles??)
+Abstract (description of invention by inventor)
+Must include diagrams of products to deposit  flow. If software, flow charts are essential
+Specification: Inclusion of every thing on background of technology, problem & solution offered by the technology patent; Detailed description; Use cases or production thoughts of inventor.
+
+Imp. Claims
+Must be explicit to claim what does and does not fall under the scope of invention
+Claim does not need to explain how to create/ make/ use the invention.
+The incentive for inventor to use vague language is to broaden the scope of claim during litigation.
+There ought to be a balance between broad & narrow patent claims to be open to scope but lesser to meet standards and on (?) be dismissed (declared invalid)
+ Watch vagueness mustn’t increase search cost.
+
+3.2. The life of a patent
+Invention → Application → (Prosecution) → Patent Issue → (Enforcement 20yrs) → Expiration
+Prosecution:
+Ex parte administrative process
+Private/ Secret (for 18 months normally)
+Procedures allow for “continuing” applications.
+2 stage appeals:
+Board Patent Appeals & Interferences (Internal)
+Federal Court & Federal circuit (Externally)
+Re- examination
+Enforcement:
+A judicial litigation process in Federal courts
+Courts are empowered to review the validity of patents
+Patents enjoy a statutory “presumption of validity” [valid until proven otherwise]
+Declaration judgement action(s?) aren’t (?Singular??) uncommon [suing patent owner for a declaration that client does not infringe that patent)
+Lawsuit in reverse.
+* More than 1% of all patents are litigated
+* More than 5% of all patents are licensed
+* Cost of litigation : 2M to lesser than 4.5M
+* Average expected value of a patent is lesser than 0$ (?)
+* Value of patent is decided by Market response.
+
+3.3. Patent Theory
+Q. What does a patent do exactly?
+A.
+Incentive provision to Invent
+Incentive provision to Disclose
+Incentive provision to Commercialize (?)
+Incentive provision to Design around (?)
+Incentive provision to invest in R & D
+
+Mechanism
+A patent is a private right to exclude others from the scope of a patent.
+Can be bought, sold, traded, licensed, divided & valued. Similar to property.
+Patents aren’t monopolies
+Reward depends on market usage
+Monopolization cost
+Rent seeking behavior
+Restriction on future innovation
+Race to acquisition of patent
+Outcome:
+The benefits outweigh the costs.
+There are other options employed to foster innovation
+3.4.
