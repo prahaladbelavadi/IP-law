@@ -243,6 +243,33 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
 - The patent document
 - Private Enforcement system (Litigation)
 
-### - Administrative Agency (US Patent Office):
+### Administrative Agency (US Patent Office):
     Evaluates applications for compliance with standards of patentability
-### - The patent document
+### The patent document:
+    Establishes boundaries of protection & claims
+    - requires disclosure
+### Litigation:
+    Market component determines reward & compensation.
+    - Involves full review of PTO grant of rights
+    - Could result in the patent owner losing his rights & patent; High risk
+### Patent Document:
+* Front page: To present to the user, reviewer as much of the critical information as possible in a concise & precise manner.
+* All US patents are downloadable from USPTO
+* Key components: (on front page)
+
+#### Must Haves:
+- Title
+- Serial Number
+- Date (prior art & priority) Validity
+- Issue date ( to become prior art for others)
+- Inventor name & Assignee (ownership)
+- Contact information of owner
+- Technology fields for classification
+- Citations for references
+- Prior Art
+- Abstract (description of invention by inventor)
+- Must include diagrams of products to deposit flow.
+    If software, flow charts are essential
+- Specification:
+    Inclusion of every thing on background of technology, problem & solution offered by the technology patent; Detailed description; Use cases or production thoughts of inventor.
+#### Claims
