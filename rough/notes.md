@@ -209,3 +209,11 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
     [Protecting Trademarks -> Companies protect their goodwill -> Invest in Goodwill -> invest in building higher quality goods -> lower search costs]
 
 # Macro economic Principle
+
+- IP rights allow Supra Marginal economic returns
+-
+| Competitive Market: 	| Prices Approach Marginal costs 	|
+|---	|---	|
+| Non Competitive Market: 	| Prices Rise above Marginal costs 	|
+
+IP rights are not monopolies.
