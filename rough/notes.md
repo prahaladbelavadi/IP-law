@@ -253,6 +253,7 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
     - Involves full review of PTO grant of rights
     - Could result in the patent owner losing his rights & patent; High risk
 ### Patent Document:
+
 * Front page: To present to the user, reviewer as much of the critical information as possible in a concise & precise manner.
 * All US patents are downloadable from USPTO
 * Key components: (on front page)
