@@ -274,3 +274,9 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
 - Specification:
     Inclusion of every thing on background of technology, problem & solution offered by the technology patent; Detailed description; Use cases or production thoughts of inventor.
 #### Claims
+
+- Must be explicit to claim what does and does not fall under the scope of invention
+- Claim does not need to explain how to create/ make/ use the invention.
+- The incentive for inventor to use vague language is to broaden the scope of claim during litigation.
+- There ought to be a balance between broad & narrow patent claims to be open to scope but lesser so to meet standards and not to be dismissed (declared invalid)
+- Watch vagueness mustn’t increase search cost.
