@@ -114,7 +114,7 @@ Competitive Market: Prices Approach Marginal(economic returns?) less than Compet
 IP rights are not monopolies.
 
 Price vs Quantity
-Difference between competitive equilibrium to (Monopolistic equilibrium to maximizing(?) profits)
+Difference between competitive equilibrium to (Monopolistic equilibrium to maximize profits)
 IP rights are between monopoly & competitive equilibrium.
 Dead Weight loss:
 The gap between monopolistic equilibrium or IP rights equilibrium to competitive equilibrium.
@@ -122,7 +122,7 @@ IP rights cost
 Monopolization cost: price difference vs. utility
 Rent seeking:
 Racing
-Patent rolls (?)
+Patent trolls
 Restriction of future innovation
 Significant administrative costs
 Significant legislative costs

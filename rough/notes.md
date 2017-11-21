@@ -211,9 +211,38 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
 # Macro economic Principle
 
 - IP rights allow Supra Marginal economic returns
--
+- Competitive Markets vs Non-Competitive Markets
+
 | Competitive Market: 	| Prices Approach Marginal costs 	|
 |---	|---	|
 | Non Competitive Market: 	| Prices Rise above Marginal costs 	|
 
-IP rights are not monopolies.
+- IP rights are not monopolies.
+- Price vs Quantity
+    - Difference between competitive equilibrium to (Monopolistic equilibrium to maximize profits)
+    - IP rights cater in-between monopoly & competitive equilibrium.
+    - Dead Weight Loss:
+        The gap between monopolistic or IP rights equilibrium to competitive equilibrium.
+## Intellectual Property Cost:
+
+- Monopolization cost: Price difference vs. utility
+- Rent seeking
+- Racing
+- Patent trolls
+- Restriction of future innovation
+- Significant administrative costs
+- Significant legislative costs
+- Dead weight societal loss
+
+> Q: Are benefits greater than the incurred costs?
+
+# Components of Patent
+
+## Architecture of patent system
+- Administrative Agency (PTO)
+- The patent document
+- Private Enforcement system (Litigation)
+
+### - Administrative Agency (US Patent Office):
+    Evaluates applications for compliance with standards of patentability
+### - The patent document
