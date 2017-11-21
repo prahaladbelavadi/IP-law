@@ -280,3 +280,27 @@ patents, copyrights and trademarks , Trade secrests rughts to publucuty IP law t
 - The incentive for inventor to use vague language is to broaden the scope of claim during litigation.
 - There ought to be a balance between broad & narrow patent claims to be open to scope but lesser so to meet standards and not to be dismissed (declared invalid)
 - Watch vagueness mustn’t increase search cost.
+
+## The life of a patent
+> Life cycle
+Invention → Application → (Prosecution) → Patent Issue → (Enforcement 20yrs) → Expiration
+
+- Prosecution:
+    - Ex parte administrative process
+    - Private/ Secret (for 18 months normally)
+    - Procedures allow for “continuing” applications.
+    - 2 stage appeals:
+        - Board Patent Appeals & Interferences (Internal)
+        - Federal Court & Federal circuit (Externally)
+    - Re - examination
+- Enforcement:
+    - A judicial litigation process in Federal courts
+    - Courts are empowered to review the validity of patents
+    - Patents enjoy a statutory “presumption of validity” [valid until proven otherwise]
+    - Declaration judgement action(s) aren’t uncommon [suing patent owner for a declaration that client does not infringe that patent] (Lawsuit in reverse)
+    - Statistics:    
+        * More than 1% of all patents are litigated
+        * More than 5% of all patents are licensed
+        * Cost of litigation : 2M to lesser than 4.5M   
+        * Average expected value of a patent is lesser than 0$
+        * Value of patent is decided by Market response
